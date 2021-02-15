@@ -1,0 +1,26 @@
+{
+  "name": "@appres/imageutil",
+  "version": "0.0.1",
+  "description": "IMAGE UTIL",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdisk/appres-imageutil.git"
+  },
+  "author": "APPRES.ORG",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/smartdisk/appres-imageutil/issues"
+  },
+  "homepage": "https://github.com/smartdisk/appres-imageutil#readme",
+  "bin": {
+    "imageutil": "bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
